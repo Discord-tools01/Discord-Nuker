@@ -1,0 +1,31 @@
+{
+    "token":"ODg5MTM4NDM0MDU1MjIxMjQ4.YUc4sg.wxkkRaUXI0RIpPVR1YACs0WtaJ4",
+    "guildid":"922579411587452938",
+
+    "spamchannel" : {
+        "name":"NBT Is Here",
+        "type":0
+        },
+
+    "ban" : {
+            "delete_message_days": 7,
+            "reason": "NBT Is Here"
+        },
+
+    "createrole" : {
+        "hoist": "true",
+        "name": "NBT Is Here",
+        "mentionable": "true",
+        "color":16746752,
+        "permissions": 1
+        },
+
+    "webhookname" : {
+        "name": "NBT Is Here"
+    },
+
+    "spamcontent": {"content": "@everyone @here shoma matharet kharabe"}
+
+
+
+}
